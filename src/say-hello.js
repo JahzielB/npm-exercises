@@ -1,0 +1,1 @@
+export const niceStr = () => "You're awesome!";
